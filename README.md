@@ -1,4 +1,4 @@
-# Bacs à sable réglementaires pour l’IA dans le nucléaire — site de l’étude
+# Bacs à sable réglementaires pour l’IA dans le nucléaire
 
 Le site (`index.html`) est hébergé sur GitHub Pages. Il affiche le plan du rapport, en français ou en anglais, dès l'ouverture.
 
